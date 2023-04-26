@@ -10,6 +10,10 @@ Requires a pedestrian walk/don't walk signal with countdown hooked up to pins D1
 Example wiring:
 ![image](https://user-images.githubusercontent.com/2856227/234481179-d4ce234f-40d1-4622-9c95-5ec433a89686.png)
 
+Inside the sign:
+![image](https://user-images.githubusercontent.com/2856227/234482191-37526367-6ad9-4bf6-beeb-43c0fce0670d.png)
+
+
 Demo video:
 
 https://user-images.githubusercontent.com/2856227/234481135-287f079c-fdda-45cf-b027-dc947f37cd54.mp4
